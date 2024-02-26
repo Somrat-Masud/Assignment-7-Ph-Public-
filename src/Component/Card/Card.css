@@ -1,0 +1,14 @@
+.cart-section{
+    width: 300px;
+    height: 450px;
+    border-radius: 10px;
+    margin-left: 20px;
+    background-color: #FFF;
+    box-shadow:0 4px 6px 0;
+    text-align: left;
+}
+.text{
+   color: #2F80ED;
+    font-family: Inter;
+    
+}
